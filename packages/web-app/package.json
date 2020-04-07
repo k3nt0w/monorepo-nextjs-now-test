@@ -12,5 +12,8 @@
     "react": "^16.8.3",
     "react-dom": "^16.8.3"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "now": "^17.1.1"
+  }
 }
